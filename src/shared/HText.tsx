@@ -1,6 +1,4 @@
-import React from "react";
-
-type Props = {
+export type Props = {
   children: React.ReactNode;
 };
 
